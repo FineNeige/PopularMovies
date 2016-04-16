@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="imageview_movie_detail_contentdescription">movie poster</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_movie_detail">Movie Detail</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_sort_title">Sort by...</string>
+    <string name="pref_sort_key">sort</string>
+
+    <string name="pref_sort_byreleasedate">releasedate</string>
+    <string name="pref_sort_bytitle">title</string>
+    <string name="pref_sort_bypopularity">popularity</string>
+    <string name="pref_sort_entry_byreleasedate">Release Date</string>
+    <string name="pref_sort_entry_bytitle">Title</string>
+    <string name="pref_sort_entry_bypopularity">Popularity</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
